@@ -4,6 +4,9 @@
 AI & Data Science Student | Full Stack Developer | Machine Learning Enthusiast
 </h3>
 
+
+
+
 <img align="right" alt="Coding" width="350"
 src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
@@ -31,7 +34,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="madhumithak2k05@gmail.com">
+<a href=**madhumithak2k05@gmail.com**>
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
