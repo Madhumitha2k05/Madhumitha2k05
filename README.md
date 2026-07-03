@@ -4,22 +4,15 @@
 AI & Data Science Student | Full Stack Developer | Machine Learning Enthusiast
 </h3>
 
+## 👩‍💻 About Me
 
-
-
-<img align="right" alt="Coding" width="350"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-## 💫 About Me
 - 🔭 Here's my [portfolio](https://gamma.app/docs/Madhumitha-K-ktsxufhkgctsx2o)  
-- 🎓 B.Tech Artificial Intelligence & Data Science (Final Year)
-- 💻 Passionate about Full Stack Web Development
-- 🌱 Currently learning **DSA, System Design and Backend Development**
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🚀 Building real-world projects using React, Django & Python
-- 🏆 Looking for Software Engineer Internships
-- 📫 Reach me: **madhumithak2k05@gmail.com**
-- ⚡ Fun Fact: I love learning by building projects.
+- 🎓 B.Tech in Artificial Intelligence & Data Science (2027 Graduate)
+- 💻 Passionate about Full Stack Development, Artificial Intelligence, and Machine Learning
+- 🌱 Currently strengthening my skills in Data Structures & Algorithms, System Design, and Backend Development
+- 🚀 Building scalable web applications using React, Django, Node.js, and Express.js
+- 🤖 Exploring AI-powered applications with Python, TensorFlow, LangChain, and Streamlit
+- ⚡ Fun Fact : I enjoy solving real-world problems through technology and continuous learning.
 
 ---
 
@@ -34,7 +27,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:madhumithak2k05@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=madhumithak2k05@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
