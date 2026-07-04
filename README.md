@@ -9,7 +9,7 @@ AI & Data Science Student | Full Stack Developer | Machine Learning Enthusiast
 - 🔭 Here's my [portfolio](https://gamma.app/docs/Madhumitha-K-ktsxufhkgctsx2o)  
 - 🎓 B.Tech in Artificial Intelligence & Data Science (2027 Graduate)
 - 💻 Passionate about Full Stack Development, Artificial Intelligence, and Machine Learning
-- 🌱 Currently strengthening my skills in Data Structures & Algorithms, System Design, and Backend Development
+- 🌱 Currently strengthening my skills in Data Structures & Algorithms, System Design, and Backend Development.
 - 🚀 Building scalable web applications using React, Django, Node.js, and Express.js
 - 🤖 Exploring AI-powered applications with Python, TensorFlow, LangChain, and Streamlit
 - ⚡ Fun Fact : I enjoy solving real-world problems through technology and continuous learning.
