@@ -80,11 +80,12 @@ AI & Data Science Student | Full Stack Developer | Machine Learning Enthusiast
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Madhumitha2k05&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Madhumitha2k05&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Madhumitha2k05&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=Madhumitha2k05&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumitha2k05&layout=compact&theme=tokyonight)
 
